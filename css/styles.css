@@ -109,7 +109,7 @@ header {
 }
 /* button */
 .button {
-  font-family: Roboto;
+  font-family: Roboto,sans-serif;
   background-color: var(--button-bkg-color);
   color: var(--hero-title-color);
   padding: 10px 32px;
@@ -209,6 +209,7 @@ footer > .logo {
   list-style-type: none;
 }
 .filter.menu {
+  font-family: Roboto,sans-serif;
   color: var(--basic-color);
   background: #f5f4fa;
 
